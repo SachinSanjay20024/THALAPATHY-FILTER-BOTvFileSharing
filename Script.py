@@ -240,13 +240,13 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>⚡️File uploaded by [SMS Movies™](https://t.me/SMS_Flizer)⚡️
+    CAPTION = """<b>⚡️File uploaded by [SMS Movies™](https://t.me/SMS_Flizers)⚡️
 
 📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
 sɪᴢᴇ ⚙️: {file_size}
 
-Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/SMS_Flizer)</b>""" 
+Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/SMS_Flizers)</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
